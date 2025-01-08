@@ -26,14 +26,16 @@ I'm Karthick, a passionate B.Tech AI & Data Science student dedicated to turning
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30px">
 
-- **Frontend Development:** HTML, CSS, JavaScript
+- **I code in:** Python,HTML, CSS, JavaScript
   <table style="width: 100%; table-layout: fixed;">
     <tr align="center">
+      <th>Python</th>
       <th>HTML</th>
       <th>CSS3</th>
       <th>JavaScript</th>
     </tr>
     <tr align="center">
+      <td><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
@@ -49,6 +51,7 @@ I'm Karthick, a passionate B.Tech AI & Data Science student dedicated to turning
       <th>Pandas</th>
       <th>Matplotlib</th>
       <th>MySQL</th>
+      <th>Streamlit</th>
     </tr>
     <tr align="center">
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/></td>
@@ -57,6 +60,7 @@ I'm Karthick, a passionate B.Tech AI & Data Science student dedicated to turning
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
+      <td><img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/></td>
     </tr>
   </table>
 
