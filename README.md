@@ -2,19 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hello!+I'm+Karthick;AI+%26+Data+Science+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hello!+I'm+Karthick;"Typing SVG">
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthick123&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
-  <a href="https://github.com/karthick123?tab=followers">
-    <img src="https://img.shields.io/github/followers/karthick123?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=KarthickJ0&label=Profile+views&color=brightgreen&style=flat-square" alt="Profile Views">
+  <a href="https://github.com/KarthickJ0?tab=followers">
+    <img src="https://img.shields.io/github/followers/KarthickJ0?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://karthick123.github.io/" target="_blank">
+  <a href="https://KarthickJ0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Karthick-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
 </p>
@@ -64,12 +64,12 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthick123&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthick123&theme=radical" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarthickJ0&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthickJ03&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick123&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickJ0&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -91,7 +91,7 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthick123&theme=radical" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarthickJ0&theme=radical" alt="Profile Details">
 </p>
 
 <p align="center">
