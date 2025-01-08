@@ -96,7 +96,18 @@ I'm Karthick, a passionate B.Tech AI & Data Science student dedicated to turning
   <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthickJ0&layout=compact" alt="Top Languages"><br>
   <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=karthickJ0&" alt="GitHub Streak"><br>
 </p>
+<picture align="Center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
 
 Let's innovate together!
 
