@@ -44,11 +44,11 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
 ### AI & Machine Learning:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="60" height="60"/>
-  <img src="https://img.icons8.com/fluency/48/000000/streamlit.png" alt="Streamlit" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
 </p>
 
 ---
