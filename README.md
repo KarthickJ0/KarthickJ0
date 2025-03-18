@@ -77,7 +77,7 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/KarthickJ/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="https://www.instagram.com/karthick___J" target="_blank">
