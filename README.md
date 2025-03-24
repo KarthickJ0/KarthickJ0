@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Welcome Banner" width="100%">
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4MzY3OTAsIm5iZiI6MTc0MjgzNjQ5MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDE3MTQ1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzZWY1MzU0NTA0N2ZhYTcwMjJhNWFmZDcwNTRmMjUzZDAyZjY1ZWU2MTc0YWZiY2U3YTRjOGI3YjdhYWYyNjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DE3cfFAJaXqtNTtcV99SVyPc_eC2kjxkSDAOtdq3ANA" alt="Welcome Banner" width="100%">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
