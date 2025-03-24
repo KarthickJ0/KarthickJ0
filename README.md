@@ -38,7 +38,6 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
 </p>
 
 ### AI & Machine Learning:
