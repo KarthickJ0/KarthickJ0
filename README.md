@@ -52,7 +52,7 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
 
 ---
 
-## 🎯 Projects
+## 🎯 Projects 
 
 - **[Survival Prediction for Leukemia](#)**: Developing a real-time prediction system using advanced machine learning models to aid in clinical decisions.
 - **[Lip Reading with Deep Learning](#)**: Utilizing CNNs to improve the accuracy of lip reading through sequential data analysis.
