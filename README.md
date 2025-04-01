@@ -1,4 +1,6 @@
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Welcome Banner" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Banner" width="100%">
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
