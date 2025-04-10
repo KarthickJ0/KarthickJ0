@@ -73,7 +73,7 @@ I'm **Karthick**, a passionate AI & Data Science student who loves blending tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickJ0&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
----
+-----
 
 ## 🌐 Connect with Me
 
